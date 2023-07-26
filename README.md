@@ -1,6 +1,5 @@
-# Vibify - Spotify clone and music streaming service
+# Vibify - Spotify clone and music streaming service (Ongoing Project)
 ~Built using React, TailwindCSS, Redux, RapidAPI, ShazamAPI
-(Ongoing project)
 
 ## Screenshot
 ![image](https://github.com/rraj-official/spotify-clone-vibify/assets/119522203/64b2a19c-897d-4fd7-b46d-f98199517994)
